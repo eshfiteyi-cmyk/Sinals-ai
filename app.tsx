@@ -1,5 +1,3 @@
-'use client';
-
 // === IMPORTAÇÕES E CONFIGURAÇÕES ===
 import { useState, useEffect, useRef } from 'react';
 // No Replit, você precisaria instalar o firebase: npm install firebase
